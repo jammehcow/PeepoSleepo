@@ -1,0 +1,7 @@
+name: Peeposleepo
+version: @version@
+main: nz.co.jammehcow.peeposleepo.PluginMain
+api-version: 1.16
+prefix: PeepoSleepo
+authors: [ jammehcow ]
+description: Set time to day when one third of players are sleeping
